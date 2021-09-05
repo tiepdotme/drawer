@@ -1,0 +1,17 @@
+*.gem
+.git
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+config.codekit3
+Gemfile.lock
+node_modules
+npm-debug.log*
+.ruby-version
+vendor
+vendor/cache/
+_mdwriter.cson
